@@ -1,0 +1,21 @@
+settings.txt should look like: (without #...)
+##############################################
+
+
+id="03480234923874923734893"
+title="My Title"
+desc="My description..."
+largeImage="LAGRE_IMAGE_NAME"
+smallImage="SMALL_IMAGE_NAME"
+start="true"
+button1=" 'BUTTON NAME', 'BUTTON LINK' "
+button2=" 'BUTTON NAME', 'BUTTON LINK' "
+
+
+
+##############################################
+
+you can skip any parameter you want to
+
+"LAGRE_IMAGE_NAME" and "SMALL_IMAGE_NAME" are variables, so replace them with your own image names 
+(that you uploaded to discord)
