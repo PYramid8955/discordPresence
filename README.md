@@ -9,7 +9,7 @@ App was compiled using pip pyinstaller library.
 To use app just download Discord_Presence.zip and unpack it on your desktop. (works only on windows)
 
 If you're on linux, you have preinstalled python and can just download the source code, `settings.txt` and `guide.txt` (optional) folders.
-Then, open command prompt, paste following line: `pip install pypresence` and press the Enter button.
+Then, open console, paste following line: `pip install pypresence` and press the Enter button.
 
 After you installed the app on your PC and configured the `settings.txt` file - make sure you have installed and opened discord on it
 and open Discord_Presence.exe (or Discord_Presence.py if you're on linux) file.
