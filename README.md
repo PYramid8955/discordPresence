@@ -4,8 +4,6 @@ A simple python app based on pip library pypresence.
 
 It is made for basic users - because you have just to write data in a `settings.txt` file. 
 
-App was compiled using pip pyinstaller library.
-
 To use app just download Discord_Presence.zip and unpack it on your desktop. (works only on windows)
 
 If you're on linux, you have preinstalled python and can just download the source code, `settings.txt` and `guide.txt` (optional) folders.
@@ -51,3 +49,5 @@ If you did all things right - your presence should appear instantly!
 
 <font color="#ff3030">***And to know how to use settings.txt file to configurate your presence just read the guide.txt file, 
 there's also an example so make sure you follow it right***</font>
+
+(The app was compiled using PyPi pyinstaller library.)
